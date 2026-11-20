@@ -4,7 +4,7 @@
 window.DASHBOARD_DATA = {
   title: "Дашборд готовности проектов",
   subtitle: "Сверка выполнения по социальным сетям, партнёрке, платёжкам и серверам",
-  updatedAt: "16.11.2026",
+  updatedAt: "20.11.2026",
   startDate: "2026-10-25",
   startTitle: "Старт проекта с 25 октября",
   columns: [
@@ -140,8 +140,9 @@ window.DASHBOARD_DATA = {
               dateLabel: "3 ноября"
             },
             "bt-en": {
-              status: "todo",
-              note: "Жду"
+              status: "done",
+              date: "2026-11-19",
+              dateLabel: "19 ноября"
             },
             "ti-cis": {
               status: "todo",
@@ -183,9 +184,9 @@ window.DASHBOARD_DATA = {
           title: "Xsolla",
           cells: {
             "bt-cis": {
-              status: "todo",
-              note: "Чиним с Вовой",
-              tone: "yellow"
+              status: "done",
+              date: "2026-11-19",
+              dateLabel: "19 ноября"
             },
             "bt-en": {
               status: "todo",
